@@ -6,7 +6,7 @@ const ForecastCardGroup = () => {
     <ScrollShadow
       orientation="horizontal"
       hideScrollBar
-      className="flex flex-row max-w-[371px] overflow-x-auto gap-4 bg-transparent"
+      className="flex flex-row max-w-[371px] w-full overflow-x-auto gap-4 bg-transparent"
     >
       <ForecastCard />
       <ForecastCard />
