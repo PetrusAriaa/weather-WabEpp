@@ -10,7 +10,9 @@ const config: Config = {
   ],
   theme: {
     fontSize:{
+      'sm' : '10px',
       'base': '14px',
+      'md' : '21px',
       'lg': '28px'
     },
     extend: {
